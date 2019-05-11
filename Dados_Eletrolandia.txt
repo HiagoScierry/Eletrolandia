@@ -1,0 +1,8 @@
+linha : 2
+coluna : 1
+Data : 1
+Data : 1
+Data : 1
+Intensidade : 1.000000
+condição do tempo : Não chuvoso
+---------------------------------------------------------
